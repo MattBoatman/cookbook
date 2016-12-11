@@ -1,0 +1,181 @@
+
+{
+"appetizers" : [{
+    "name": "Bacon & Cheese Dip",
+    "author": "Jackie Boatman",
+    "ingredients" : [
+        {   
+            "quantity": 16,
+            "type": "oz",
+            "ingredient": "cream cheese"
+        },{   
+            "quantity": 4,
+            "type": "cups",
+            "ingredient": "shredded colby jack cheese"
+        },{   
+            "quantity": 1,
+            "type": "cups",
+            "ingredient": "half and half"
+        },{   
+            "quantity": 2,
+            "type": "tablespoons",
+            "ingredient": "prepared mustard"
+        },{   
+            "quantity": 1,
+            "type": "tablespoons",
+            "ingredient": "chopped onion"
+        },{   
+            "quantity": 2,
+            "type": "teaspoons",
+            "ingredient": "Worcestershire sauce"
+        },{   
+            "quantity": 1.5,
+            "type": "teaspoons",
+            "ingredient": "salt"
+        },{   
+            "quantity": 2,
+            "type": "teaspoons",
+            "ingredient": "hot sauce"
+        },{
+            "quantity": 1,
+            "type": "pound",
+            "ingredient": "bacon, crisp cooked and crumbled"
+        }], 
+    "directions": ["Combine cream cheese, Colby jack cheese, half and half, mustard, onion, Worcestershire sauce, salt and hot pepper sauce in slow cooker.", "Cover and cook, stirring occasionally on low 1 hour or until cheese melts.", "Stir in bacon and serve with crusty bread or vegetable dippers."]
+    },{
+    "name": "Shredded Buffalo Chicken",
+    "author": "Matt Boatman",
+    "ingredients" : [
+        {   
+            "quantity": 3,
+            "type": "pounds",
+            "ingredient": "chicken breast"
+        },{   
+            "quantity": 12,
+            "type": "oz",
+            "ingredient": "Frank's Buffalo Sauce"
+        },{   
+            "quantity": 1,
+            "type": "package",
+            "ingredient": "Hidden Valley Dry Ranch Mix"
+        },{   
+            "quantity": 0.5,
+            "type": "stick",
+            "ingredient": "butter"
+        }], 
+    "directions": ["Put the chicken and the buffalo sauce in the crock pot and cook on low for 8 hours.", "Remove the chicken from the crock pot and shred it, using two forks.", "Add the shredded chicken back to the crock pot, add the ranch mix and the butter, and stir until the butter is melted and ingredients are well-mixed."]
+    },{
+    "name": "Buffalo Chicken Dip",
+    "author": "Matt Boatman",
+    "ingredients" : [
+        {   
+            "quantity": 1,
+            "type": "recipe",
+            "ingredient": "Shredded Buffalo Chicken"
+        },{   
+            "quantity": 1,
+            "type": "package",
+            "ingredient": "cream cheese"
+        },{   
+            "quantity": 8,
+            "type": "oz",
+            "ingredient": "shredded cheddar cheese"
+        }], 
+    "directions": ["Combine all ingredients and a crock pot and mix well", "Warm until homogeneous", "Season to desired spice level with cayenne to make spicier, or more cream cheese to make less spicy", "Serve with nachos, celery, or carrots"]
+    },{
+    "name": "Bacon Wrapped Water Chestnuts",
+    "author": "Jackie Boatman",
+    "ingredients" : [
+        {   
+            "quantity": 1,
+            "type": "pound",
+            "ingredient": "bacon - cut into 2 inch strips"
+        },{   
+            "quantity": 2,
+            "type": "cans",
+            "ingredient": "whole water chestnuts"
+        },  { 
+        "subItem" : {
+                "name": "Sauce",
+                "ingredients":[{
+                    "quantity": 1,
+                    "type": "cup",
+                    "ingredient": "ketchup"
+                },{
+                    "quantity": 2,
+                    "type": "teaspoons",
+                    "ingredient": "soy sauce"
+                },{
+                    "quantity": 0.6,
+                    "type": "cup",
+                    "ingredient": "sugar"
+                }]
+        }} ],
+     
+    "directions": ["Wrap bacon around water chestnuts and secure with a toothpick.", "Bake at 350o until bacon is done.", "Drain grease off and dip in sauce.", "Put back in oven to warm."]
+    }]
+},
+"mainDishes": [{
+ "name": "Baked Ziti",
+    "author": "Christine Daugherty",
+    "ingredients" : [
+        {   
+            "quantity": 16,
+            "type": "oz",
+            "ingredient": "Ziti pasta"
+        },{   
+            "quantity": 1,
+            "type": "pound",
+            "ingredient": "Mild Italian sausage"
+        },{   
+            "quantity": 52,
+            "type": "oz",
+            "ingredient": "Pasta sauce"
+        },{   
+            "quantity": 0.5,
+            "type": "",
+            "ingredient": ""
+        }], 
+    "directions": ["Preheat oven to 350 degrees Bring large pot of water to boil (lightly salted).", "Add pasta and cook according to directions (al dente).", "Place sausage in deep skillet, cook until brown, drain.", "In large sauce pan heat sauce with 1 tsp basil until bubbling.", "In medium bowl, mix ricotta 1 tsp Italian seasoning salt and pepper Spread bottom of 9x13 pan with sauce, layer 1⁄2 of ziti, 1⁄2 sausage, 1⁄2 of ricotta, 1⁄2 of mozzarella, sauce. Repeat Sprinkle top with 1⁄2 tsp basil, 1⁄2 tsp Italian seasoning, extra cheese Bake for 40-45 minutes"]
+},{
+ "name": "Lasagna",
+    "author": "Mary Shaffner",
+    "ingredients" : [
+        {   
+            "quantity": 1,
+            "type": "pound",
+            "ingredient": "lasagna noodles"
+        },{   
+            "quantity": 1.5,
+            "type": "pound",
+            "ingredient": "ricotta cheese"
+        },{   
+            "quantity": 2,
+            "ingredient": "Eggs, beaten"
+        },{   
+            "quantity": 1,
+            "type": "teaspoon",
+            "ingredient": "salt"
+        },{   
+            "quantity": 0.5,
+            "type": "teaspoon",
+            "ingredient": "pepper"
+        },{   
+            "quantity": 2,
+            "type": "tablespoons",
+            "ingredient": "chopped parsley"
+        },{   
+            "quantity": 1,
+            "type": "pound",
+            "ingredient": "mozzarella cheese"
+        },{   
+            "quantity": 0.75,
+            "type": "cup",
+            "ingredient": "parmesan cheese"
+        },{   
+            "quantity": 1,
+            "type": "package",
+            "ingredient": "provolone cheese"
+        }], 
+    "directions": ["Cook noodles as directed", "Preheat oven to 350", "Mix ricotta, eggs, salt, pepper and parsley", "Spoon thin layer of sauce in bottom of 13 x 9 pan, then layer of noodles, ricotta mixture, then mozzarella and Parmesan", "Repeat layers , usually 3 layers", "Top with sauce, provolone cheese", "Bake covered for 45 minutes, uncover and bake for 15-20 minutes longer. Let stand for 20-30 minutes before cutting."]
+}]
